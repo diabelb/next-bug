@@ -24,6 +24,12 @@ export default function Home() {
               height={24}
               priority
             />
+            <Image
+                src="/banner-desktop.jpeg"
+                alt="Banner desktop"
+                className={styles.vercelLogo}
+                priority
+            />
           </a>
         </div>
       </div>
